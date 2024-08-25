@@ -1,0 +1,34 @@
+[
+     {
+          "start": "2021-10",
+          "end": "Present",
+          "role": "Network(Automation) Engineer",
+          "company": "RobertWalters k.k(Missioned to Rakuten)",
+          "location": "Tokyo, Japan",
+          "explanation": "I lead the end-to-end development of RMOP solutions, from design to deployment. I specialize in creating network-related applications to automate routine tasks, enhancing operational efficiency. I mentor junior developers, fostering their growth and ensuring high coding standards. Additionally, I integrate AI technologies to optimize processes and leverage edge computing to implement cutting-edge solutions."
+     },
+     {
+          "start": "2019-08",
+          "end": "2021-09",
+          "role": "Software Engineer",
+          "company": "East Asia Network Ltd.",
+          "location": "Tokyo, Japan",
+          "explanation": "Develop and maintain web applications using frameworks like React, Laravel and CodeIgniter. Debug and resolve code issues, ensure smooth functionality. Design and manage SQL and NoSQL databases for optimal performance. Perform regular software updates and maintenance tasks. Deploy and scale applications using Google Cloud Platform (GCP) services and Kubernetes."
+     },
+     {
+          "start": "2013-06",
+          "end": "2019-06",
+          "role": "Full Stack Engineer",
+          "company": "Kook Manufacturing Group Ltd.",
+          "location": "Tehran, Iran",
+          "explanation": "Develop and maintain internal employee management systems. Create end-to-end applications, both desktop and web, ensuring seamless integration. Utilize technologies such as C++, Python, React, css, html and JavaScript for front-end and back-end development. Design and manage MySQL databases for efficient data storage and retrieval. Perform regular updates and maintenance to ensure system reliability. Optimize application performance and provide technical support."
+     },
+     {
+          "start": "2009-01",
+          "end": "2012-12",
+          "role": "Software Engineer",
+          "company": "Mihan Dairy and Ice-Cream Group Inc.",
+          "location": "Tehran, Iran",
+          "explanation": "Assist in developing and maintaining web applications using HTML, CSS, and JavaScript for front-end development. Help debug and resolve minor front-end issues under supervision. Support backend development tasks using C++ for server-side logic. Participate in regular software updates and maintenance activities. Learn and utilize basic cloud services for deployment tasks. Collaborate with senior engineers to gain hands-on experience and improve both front-end and backend development Skills."
+     }
+]
